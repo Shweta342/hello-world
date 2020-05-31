@@ -1,4 +1,6 @@
 # hello-world
-First repository
-Hello people,
-This is my first attempt.I am learning to use it.
+
+hi people
+
+This is my first attempt.
+Trying to explore more of it.
